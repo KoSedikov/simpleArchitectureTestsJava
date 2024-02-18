@@ -2,7 +2,7 @@ package App;
 
 import org.junit.jupiter.api.*;
 
-public class GeneralMethods {
+public class GeneralMethods extends PageBuilder {
     // init chrome prefs
     @BeforeAll
     static void chromePrefsInit(){}
