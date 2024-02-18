@@ -5,7 +5,7 @@ import TestSteps.MainPageSteps;
 
 public class PageBuilder {
 
-    // page builders
+    /** Page builders **/
     public MainPageSteps mainPage() {return new MainPageSteps();}
     public AuthorizationSteps authorization() {return new AuthorizationSteps();}
 }
