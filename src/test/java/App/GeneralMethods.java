@@ -1,3 +1,5 @@
+package App;
+
 import org.junit.jupiter.api.*;
 
 public class GeneralMethods {

@@ -8,6 +8,5 @@ public class SomeTest {
     @DisplayName("Test #1")
     void test1()
     {
-
     }
 }
